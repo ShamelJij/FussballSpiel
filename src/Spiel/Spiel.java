@@ -4,7 +4,7 @@ import Spiel.Example;
 
 public class Spiel {
     public void method() {
-        String something = "whatever";
+        String something = "test";
         System.out.println(something);
     }
 
